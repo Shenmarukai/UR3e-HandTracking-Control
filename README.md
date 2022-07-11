@@ -9,6 +9,7 @@ Required:
 - UR-RTDE Python Module (https://pypi.org/project/ur-rtde/)
 - Robotiq Hand-E for gripper usage
 - Universal Robots UR3e Robot(s) or the UR3e Linux simulator
+- Visual Studio 2019 dlls may be required for running the LeapMotionC.exe program
 
 Usage:
 - Start UR3eControl.py program with correct Host PC IP Address and UR3e Robot IP Addresses.
@@ -16,6 +17,8 @@ Usage:
 - Begin control of robotic arms by moving your hands to the virtual position of the robotic end effector positions and opening the palms.
 - Close and open the Robotiq grippers by piching the thumb and index finger together.
 - Stop control boy making a fist with each respective hand and moving hands away from the virtal robotic end effector positions.
+
+* Source code the LeapMotionC.exe program is provided and can be edited and recompiled by linking the LeapMotionSDK into your coding environment
 
 Control System Diagram:
 
