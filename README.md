@@ -20,7 +20,7 @@ Usage:
 - Close and open the Robotiq grippers by piching the thumb and index finger together.
 - Stop control boy making a fist with each respective hand and moving hands away from the virtal robotic end effector positions.
 
-* Source code the LeapMotionC.exe program is provided and can be edited and recompiled by linking the LeapMotionSDK into your coding environment
+* Source code for the LeapMotionC.exe program is provided as Leap and can be edited and recompiled by linking the LeapMotionSDK into your coding environment
 
 Control System Diagram:
 
