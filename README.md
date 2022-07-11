@@ -9,7 +9,7 @@ Required:
 - UR-RTDE Python Module (https://pypi.org/project/ur-rtde/)
 - Robotiq Hand-E for gripper usage
 - Universal Robots UR3e Robot(s) or the UR3e Linux simulator
-- Visual Studio 2019 dlls may be required for running the LeapMotionC.exe program
+- Visual Studio 2019 dlls required for running the LeapMotionC.exe program
 
 Usage:
 - Start UR3eControl.py program with correct Host PC IP Address and UR3e Robot IP Addresses.
