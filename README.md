@@ -7,11 +7,15 @@ Required:
 - Numpy Python Module (https://pypi.org/project/numpy/)
 - Quaternion Python Module (https://pypi.org/project/numpy-quaternion/)
 - UR-RTDE Python Module (https://pypi.org/project/ur-rtde/)
+- Robotiq Hand-E for gripper usage
+- Universal Robots UR3e Robot(s) or the UR3e Linux simulator
 
 Usage:
-- Start Python Program with your correct Host PC IP Address and UR3e Robot IP Addresses
-- Start 
-
+- Start UR3eControl.py program with correct Host PC IP Address and UR3e Robot IP Addresses.
+- Start LeapMotionC.exe program with Leap Motion plugged into PC and Leap Motion Control Panel Running.
+- Begin control of robotic arms by moving your hands to the virtual position of the robotic end effector positions and opening the palms.
+- Close and open the Robotiq grippers by piching the thumb and index finger together.
+- Stop control boy making a fist with each respective hand and moving hands away from the virtal robotic end effector positions.
 
 Control System Diagram:
 
