@@ -11,7 +11,9 @@ Control System:
 
 ![Picture1](https://user-images.githubusercontent.com/86205659/178172862-f0dedfad-577e-4dbe-865a-4c49118a7408.png)
 
-Hand Tracking Control Video:
+Hand Tracking Control Videos:
 
 https://user-images.githubusercontent.com/86205659/178173848-61a7ab31-c8a0-43fb-b233-b7f3435340a8.mp4
+
+https://user-images.githubusercontent.com/86205659/178174850-d84bda4a-7e14-4ce7-b338-f40b43c43dc8.mp4
 
