@@ -8,7 +8,7 @@ Required:
 - Quaternion Python Module (https://pypi.org/project/numpy-quaternion/)
 - UR-RTDE Python Module (https://pypi.org/project/ur-rtde/)
 
-Control System:
+Control System Diagram:
 
 ![Picture1](https://user-images.githubusercontent.com/86205659/178172862-f0dedfad-577e-4dbe-865a-4c49118a7408.png)
 
