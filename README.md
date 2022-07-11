@@ -13,4 +13,5 @@ Control System:
 
 Hand Tracking Control Video:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zEzUrnH5uG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/86205659/178173848-61a7ab31-c8a0-43fb-b233-b7f3435340a8.mp4
+
