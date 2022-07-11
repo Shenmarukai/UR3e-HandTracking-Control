@@ -8,6 +8,11 @@ Required:
 - Quaternion Python Module (https://pypi.org/project/numpy-quaternion/)
 - UR-RTDE Python Module (https://pypi.org/project/ur-rtde/)
 
+Usage:
+- Start Python Program with your correct Host PC IP Address and UR3e Robot IP Addresses
+- Start 
+
+
 Control System Diagram:
 
 ![Picture1](https://user-images.githubusercontent.com/86205659/178172862-f0dedfad-577e-4dbe-865a-4c49118a7408.png)
