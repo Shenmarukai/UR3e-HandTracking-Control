@@ -15,5 +15,7 @@ Hand Tracking Control Videos:
 
 https://user-images.githubusercontent.com/86205659/178173848-61a7ab31-c8a0-43fb-b233-b7f3435340a8.mp4
 
-https://user-images.githubusercontent.com/86205659/178175121-cc33108e-5cf2-47d4-b542-b5471a45fd70.mp4
+https://user-images.githubusercontent.com/86205659/178176042-18feb7fe-6183-40f0-9569-26e53960c8f0.mp4
+
+https://user-images.githubusercontent.com/86205659/178176045-506b4128-b72e-4e9c-b818-36fe7b64203e.mp4
 
