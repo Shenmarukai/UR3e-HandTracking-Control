@@ -10,6 +10,8 @@ Required:
 - Robotiq Hand-E for gripper usage
 - Universal Robots UR3e Robot(s) or the UR3e Linux simulator
 - Visual Studio 2019 dlls required for running the LeapMotionC.exe program
+  - ucrtbased.dll
+  - vcruntime140d.dll 
 
 Usage:
 - Start UR3eControl.py program with correct Host PC IP Address and UR3e Robot IP Addresses.
