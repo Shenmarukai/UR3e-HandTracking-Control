@@ -14,7 +14,7 @@ Control System:
 
 Hand Tracking Control Videos:
 
-https://user-images.githubusercontent.com/86205659/178173848-61a7ab31-c8a0-43fb-b233-b7f3435340a8.mp4
+https://user-images.githubusercontent.com/86205659/178176459-bd42a7d8-7cd3-4ccf-934c-66d4922a1b5c.mp4
 
 https://user-images.githubusercontent.com/86205659/178176042-18feb7fe-6183-40f0-9569-26e53960c8f0.mp4
 
