@@ -11,6 +11,7 @@ Required:
 Control System Diagram:
 
 ![Picture1](https://user-images.githubusercontent.com/86205659/178172862-f0dedfad-577e-4dbe-865a-4c49118a7408.png)
+![Hand-Tracking-Layout](https://user-images.githubusercontent.com/86205659/178177196-c4f625a5-b8a3-4b78-a220-e01895038b16.PNG)
 ![Hand-Tracking-Gestures](https://user-images.githubusercontent.com/86205659/178177017-4134fdf8-2806-4964-8a4a-a6c762687cdf.PNG)
 
 Hand Tracking Control Videos:
