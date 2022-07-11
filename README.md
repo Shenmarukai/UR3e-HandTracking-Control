@@ -10,3 +10,7 @@ Required:
 Control System:
 
 ![Picture1](https://user-images.githubusercontent.com/86205659/178172862-f0dedfad-577e-4dbe-865a-4c49118a7408.png)
+
+Hand Tracking Control Video:
+
+![Video1](https://youtu.be/zEzUrnH5uG4)
