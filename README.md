@@ -1,6 +1,12 @@
 # UR3e-HandTracking-Control
 Program to control one or two UR3e robots using a Leap Motion hand tracking camera.
 
+- This project could not have been completed without the help of:
+  - Jack Merhar
+  - Brennon Conner
+  - Keanu Williams
+  - Emily
+
 Required:
 - Leap Motion Hand Tracking Camera
 - Leap Motion Gemini SDK (https://developer.leapmotion.com/tracking-software-download)
