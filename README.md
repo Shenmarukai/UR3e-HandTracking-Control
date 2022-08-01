@@ -5,7 +5,7 @@ Program to control one or two UR3e robots using a Leap Motion hand tracking came
   - Jack Merhar
   - Brennon Conner
   - Keanu Williams
-  - Emily
+  - Emily Wolfe
 
 Required:
 - Leap Motion Hand Tracking Camera
