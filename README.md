@@ -2,6 +2,7 @@
 Program to control one or two UR3e robots using a Leap Motion hand tracking camera.
 
 - This project could not have been completed without the help of:
+  - Xiaomeng Shi, Assistant Teaching Professor at Widener University
   - Jack Merhar
   - Brennon Conner
   - Keanu Williams
